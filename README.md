@@ -21,12 +21,7 @@ Welcome to **Gaming Workout Hub** – the perfect balance between gaming and fit
 Read the [CONTRIBUTING.md](https://github.com/amb2893/CS386Project/blob/testHTML/CONTRIBUTING.md) for information on code of contributing and our code of conduct.
 
 # Authors
- - Anthony Birk
- - Franz Mischke
- - Preston Smith
  - Luke Shahan
- - Mayanna John
- - Jalen Jensen
 
 
 # License
